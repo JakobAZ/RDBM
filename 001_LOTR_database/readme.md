@@ -1,2 +1,2 @@
 # LOTR database
-We're going to experiment with web-scraping the Lord of the Rings wiki, storing the data in an SQLite database and, maybe, lfinding interesting things in the data later on. For now it is just to practice web-scraping and databases
+We're going to experiment with web-scraping the Lord of the Rings wiki, storing the data in an SQLite database and, maybe, finding interesting things in the data later on. For now it is just to practice web-scraping and databases
